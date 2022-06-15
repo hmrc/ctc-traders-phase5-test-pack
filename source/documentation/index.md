@@ -21,7 +21,7 @@ This test pack is specifically designed for use with the CTC Traders API.
 
 You must use this with the CTC Traders API using the sandbox environment with the Trader Test Service. It gives you sample scenarios to use when checking your software functions correctly and that it is compatible with HMRC systems. Use it to test all scenarios for arrivals and departure movements to and from both Great Britain and Northern Ireland.
 
-Rules and conditions that apply to Information Exchange (IE) messages as defined in the NCTS Technical Interface Specifications work differently for GB and Northern Ireland because of the Northern Ireland Protocol.
+Rules and conditions that apply to Information Exchange (IE) messages as defined in the NCTS Technical Interface Specifications work differently for Great Britain and Northern Ireland because of the Northern Ireland Protocol.
 
 Northern Ireland is not an EU member state, but in compliance with the requirements of the Northern Ireland Protocol, these rules and conditions should be applied in the same way as for EU member states.
 
