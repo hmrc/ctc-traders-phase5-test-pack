@@ -24,4 +24,6 @@ You must use this with the CTC Traders API using the sandbox environment with th
 Rules and conditions that apply to Information Exchange (IE) messages as defined in the NCTS Technical Interface Specifications work differently for GB and Northern Ireland because of the Northern Ireland Protocol.
 
 Northern Ireland is not an EU member state, but in compliance with the requirements of the Northern Ireland Protocol, these rules and conditions should be applied in the same way as for EU member states.
+
 The CTC Traders API integrates with both the Great Britain and Northern Ireland versions of the NCTS test system. These operate identically to the GB and Northern Ireland live versions of the NCTS system.
+
